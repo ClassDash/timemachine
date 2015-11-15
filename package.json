@@ -1,0 +1,22 @@
+{
+  "name": "timemachine",
+  "version": "1.0.0",
+  "description": "1. Enter all the events they want a schedule to be made from to create a 'shopping' list \t* User can choose a blacklisted/whitelisted timeslot for an event. Eg. Breakfast is only between 8am and 11am. 2. Enter blacklisted times 3. Pinned and unpin times for events so that timeblock is temporarily blacklisted. 4. Click and drag events to other times \t* Hovering over an event shows all other possible times for it \t* If moved into a timeslot already occupied, the incumbent event's timeslot is automatically recalculated.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClassDash/timemachine.git"
+  },
+  "keywords": [
+    "timemachine"
+  ],
+  "author": "ClassDash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClassDash/timemachine/issues"
+  },
+  "homepage": "https://github.com/ClassDash/timemachine#readme"
+}
